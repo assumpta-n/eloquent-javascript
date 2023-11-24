@@ -28,3 +28,7 @@ button.btn {
 button.green {
     background-color: chartreuse;
 }
+
+button.pink {
+    background-color: fuchsia;
+}
