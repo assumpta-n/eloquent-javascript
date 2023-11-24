@@ -16,10 +16,13 @@ h1 {
 }
 
 button.btn {
-    padding: 8px;
-    font-size: 18px;
+    padding: 10px;
     text-align: center;
-    text-transform: capitalize;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+    letter-spacing: 2px;
+
 }
 
 button.green {
