@@ -16,12 +16,13 @@ h1 {
 }
 
 button.btn {
-    padding: 10px;
+    padding: 10px 20px;
     text-align: center;
     text-transform: uppercase;
     border-radius: 5px;
     border: none;
     letter-spacing: 2px;
+    margin-right: 10px;
 
 }
 
@@ -31,4 +32,8 @@ button.green {
 
 button.pink {
     background-color: fuchsia;
+}
+
+button.blue {
+    background-color: aqua;
 }
