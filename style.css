@@ -30,10 +30,14 @@ button.green {
     background-color: chartreuse;
 }
 
-button.pink {
+button.purple {
     background-color: fuchsia;
 }
 
 button.blue {
     background-color: aqua;
+}
+
+button.yellow {
+    background-color: palegoldenrod;
 }

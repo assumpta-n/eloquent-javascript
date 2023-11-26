@@ -1,3 +1,4 @@
+//My Solution
 function showLoopTriangle() {
     let branch = "#"
     for (let i = 0; i < 7; i++) {
@@ -26,6 +27,16 @@ function showFizzBuzz() {
             console.log("FizzBuzz")
         } else {
             console.log(i)
+        }
+    }
+}
+function showChessBoard() {
+    let line = "# # # #"
+    for (let i = 1; i <= 8; i++) {
+        if (i % 2 !== 0) {
+            console.log(" " + line)
+        } else if (i % 2 == 0) {
+            console.log(line)
         }
     }
 }
